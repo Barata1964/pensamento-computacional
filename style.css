@@ -1,0 +1,17 @@
+body{
+    background-color: lightsteelblue;
+}
+.título{
+    font-size: 28px;
+    text-align: center;
+    color:yellow;
+}
+
+.título.looksfamiliar{
+    color: yellow;
+}
+.warbonds{
+    font-size: 20px;
+    text-align:left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
